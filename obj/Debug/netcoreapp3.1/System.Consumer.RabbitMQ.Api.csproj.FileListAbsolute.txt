@@ -1,0 +1,16 @@
+E:\Desenvolvimento\Visual Studio\CSharp\Projetos\TesteRabbit\System.Consumer.RabbitMQ.Api\bin\Debug\netcoreapp3.1\System.Consumer.RabbitMQ.Api.exe
+E:\Desenvolvimento\Visual Studio\CSharp\Projetos\TesteRabbit\System.Consumer.RabbitMQ.Api\bin\Debug\netcoreapp3.1\System.Consumer.RabbitMQ.Api.deps.json
+E:\Desenvolvimento\Visual Studio\CSharp\Projetos\TesteRabbit\System.Consumer.RabbitMQ.Api\bin\Debug\netcoreapp3.1\System.Consumer.RabbitMQ.Api.runtimeconfig.json
+E:\Desenvolvimento\Visual Studio\CSharp\Projetos\TesteRabbit\System.Consumer.RabbitMQ.Api\bin\Debug\netcoreapp3.1\System.Consumer.RabbitMQ.Api.runtimeconfig.dev.json
+E:\Desenvolvimento\Visual Studio\CSharp\Projetos\TesteRabbit\System.Consumer.RabbitMQ.Api\bin\Debug\netcoreapp3.1\System.Consumer.RabbitMQ.Api.dll
+E:\Desenvolvimento\Visual Studio\CSharp\Projetos\TesteRabbit\System.Consumer.RabbitMQ.Api\bin\Debug\netcoreapp3.1\System.Consumer.RabbitMQ.Api.pdb
+E:\Desenvolvimento\Visual Studio\CSharp\Projetos\TesteRabbit\System.Consumer.RabbitMQ.Api\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\Desenvolvimento\Visual Studio\CSharp\Projetos\TesteRabbit\System.Consumer.RabbitMQ.Api\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\Desenvolvimento\Visual Studio\CSharp\Projetos\TesteRabbit\System.Consumer.RabbitMQ.Api\obj\Debug\netcoreapp3.1\System.Consumer.RabbitMQ.Api.csprojAssemblyReference.cache
+E:\Desenvolvimento\Visual Studio\CSharp\Projetos\TesteRabbit\System.Consumer.RabbitMQ.Api\obj\Debug\netcoreapp3.1\System.Consumer.RabbitMQ.Api.AssemblyInfoInputs.cache
+E:\Desenvolvimento\Visual Studio\CSharp\Projetos\TesteRabbit\System.Consumer.RabbitMQ.Api\obj\Debug\netcoreapp3.1\System.Consumer.RabbitMQ.Api.AssemblyInfo.cs
+E:\Desenvolvimento\Visual Studio\CSharp\Projetos\TesteRabbit\System.Consumer.RabbitMQ.Api\obj\Debug\netcoreapp3.1\System.Consumer.RabbitMQ.Api.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\Visual Studio\CSharp\Projetos\TesteRabbit\System.Consumer.RabbitMQ.Api\obj\Debug\netcoreapp3.1\System.Consumer.RabbitMQ.Api.csproj.CopyComplete
+E:\Desenvolvimento\Visual Studio\CSharp\Projetos\TesteRabbit\System.Consumer.RabbitMQ.Api\obj\Debug\netcoreapp3.1\System.Consumer.RabbitMQ.Api.dll
+E:\Desenvolvimento\Visual Studio\CSharp\Projetos\TesteRabbit\System.Consumer.RabbitMQ.Api\obj\Debug\netcoreapp3.1\System.Consumer.RabbitMQ.Api.pdb
+E:\Desenvolvimento\Visual Studio\CSharp\Projetos\TesteRabbit\System.Consumer.RabbitMQ.Api\obj\Debug\netcoreapp3.1\System.Consumer.RabbitMQ.Api.genruntimeconfig.cache
